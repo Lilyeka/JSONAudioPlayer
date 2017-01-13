@@ -1,5 +1,5 @@
 # JSONAudioPlayer
-Simple iOS Audio player for JSON file.
+Simple iOS Audio player on Swift for JSON file.
 
 This project using SwiftyJSON + Cocoapods.
 
