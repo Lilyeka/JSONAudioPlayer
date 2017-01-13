@@ -1,0 +1,6 @@
+framework module Pods_JSONAudioPlayer {
+  umbrella header "Pods-JSONAudioPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

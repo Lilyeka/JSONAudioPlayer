@@ -1,0 +1,34 @@
+{
+    "Products": {
+        "Product1":{
+            "name": "Чебурашка",
+            "cellImage": "Cheburashka",
+            "productImage":"Cheburashka",
+            "musicName":"PesenkaCheburashki",
+            "musicType":"mp3"
+        },
+        "Product2":{
+            "name": "Крокодил Гена",
+            "cellImage": "krokodil-gena",
+            "productImage":"krokodil-gena",
+            "musicName":"PesenkaGeni",
+            "musicType":"mp3"
+        },
+        "Product3":{
+            "name": "Винни Пух",
+            "cellImage": "winipooh_1",
+            "productImage":"winipooh_1",
+            "musicName":"PesenkaVinni",
+            "musicType":"mp3"
+        },
+        "Product4":{
+            "name": "Кот Леопольд",
+            "cellImage": "kot_leo2",
+            "productImage":"kot_leo1",
+            "musicName":"PesenkaKotaLeo",
+            "musicType":"mp3"
+        }
+    }
+
+}
+
